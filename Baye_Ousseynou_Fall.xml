@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE syllabus SYSTEM "tp.dtd"> 
+<syllabus>
+    <cours code="INF 5342">
+        <description>
+        	<intitule> Virtualisation et stockage</intitule>
+            <UE> Informatique </UE>
+            <CT>
+                <credit> 6 </credit>
+                <coef> 2 </coef>
+                <VH>
+                	<CM> 15 </CM>
+                    <TDTP> 15 </TDTP>
+                    <TPE> 30 </TPE>                 
+                </VH>
+            </CT>
+            <semestre> 3 </semestre>
+            <niveau> Master </niveau>
+            <prerequies> SE, ADMIN SYSTEM RESEAUX </prerequies>
+        </description>
+        <enseignants nombre = "1" >
+        	<enseignant>
+            	<prenom>Dethie</prenom>
+            	<nom>Sarr</nom>
+            	<addressbureau> VCN Bat Admin SET </addressbureau>
+            	<couriel> mdsarr@univ-thies.sn </couriel>
+            	<Heurebureau> 09H - 12H </Heurebureau>
+        	</enseignant>
+        </enseignants>
+    </cours>
+</syllabus>
+
